@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sl7fMo96TkE=",
+  "success": true,
+  "projectFilePath": "/Users/NBMACPRO551/Desktop/DEMOS/QRGenerator/QRGenerator/QRGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/NBMACPRO551/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/NBMACPRO551/.nuget/packages/qrcoder/1.8.0/qrcoder.1.8.0.nupkg.sha512",
+    "/Users/NBMACPRO551/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
