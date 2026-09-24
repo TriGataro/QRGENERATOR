@@ -48,6 +48,7 @@ using QRCoder;
 
                 Console.WriteLine($"\n¡Éxito! Imagen guardada en:");
                 Console.WriteLine(fullPath);
+                Console.ReadKey();
             }
         }
     }
